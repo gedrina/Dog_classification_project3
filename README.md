@@ -105,3 +105,10 @@ __NOTE:__ While some code has already been implemented to get you started, you w
 ## Link to medium post
 
 Please find the link to the medium post at: https://medium.com/@edrinagashi/transfer-learning-using-convolutional-neural-networks-for-dog-breed-classification-fd3fa28cbc3e
+
+Acknowledgments
+Heavily used Keras documentation: https://keras.io/api/
+
+Simonyan and Zisserman, Very deep convolutional networks for large-scale image recognition, ICLR 2015
+
+He, Zhang, Ren, Sun, Deep Residual Learning for Image Recognition, CVPR 2016
